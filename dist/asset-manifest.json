@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1930adb5.css",
+    "main.js": "/static/js/main.f2c2da70.js",
+    "static/js/703.85559313.chunk.js": "/static/js/703.85559313.chunk.js",
+    "static/js/541.285c4b31.chunk.js": "/static/js/541.285c4b31.chunk.js",
+    "static/js/787.83d46a80.chunk.js": "/static/js/787.83d46a80.chunk.js",
+    "static/media/earth-only.png": "/static/media/earth-only.3ca520cf2a9bade28655.png",
+    "static/media/plans-and-pricing.png": "/static/media/plans-and-pricing.6bc1287b9ddf7b70d863.png",
+    "static/media/login-left.png": "/static/media/login-left.b4262dd89d6f31afd3e8.png",
+    "static/media/signup-left.png": "/static/media/signup-left.b4262dd89d6f31afd3e8.png",
+    "static/media/overview.png": "/static/media/overview.bff7e57a6a8d67c1d62e.png",
+    "static/media/contact-us-back.png": "/static/media/contact-us-back.e89cfca22765538c742f.png",
+    "static/media/header-logo-line-mobile.png": "/static/media/header-logo-line-mobile.32977bd1cd21e3bc0042.png",
+    "static/media/example-screenshot.png": "/static/media/example-screenshot.9208e5ee404d12ab8b8b.png",
+    "static/media/co2-Recovered4.png": "/static/media/co2-Recovered4.72b735376215a6ddb768.png",
+    "static/media/Anton-Regular.ttf": "/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
+    "static/media/co2-bubble.png": "/static/media/co2-bubble.b1f56e67c12efd822cd7.png",
+    "static/media/footer-back-top.png": "/static/media/footer-back-top.b04d3fc047192c9d47a8.png",
+    "static/media/Add.png": "/static/media/Add.5c5ca13140c3b5deefd2.png",
+    "static/media/Delete.png": "/static/media/Delete.8246555bf1d4be4c5401.png",
+    "static/media/header-logo.png": "/static/media/header-logo.fc1071848a3c06d85ced.png",
+    "static/media/business-3.svg": "/static/media/business-3.1fc2735154ea81282b8a8c7feb0d73f8.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.9e52cf326e0bbf3cd9a3378906c0d35c.svg",
+    "static/media/business-1.svg": "/static/media/business-1.8404f196191762c331b8f2191e48e4a1.svg",
+    "static/media/business-2.svg": "/static/media/business-2.a3e7faa630fd2176fbd1ac345d0b2e9b.svg",
+    "static/media/mail.svg": "/static/media/mail.eee1baa73917a6ad8cc5ab655510875a.svg",
+    "static/media/menu.svg": "/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "main.1930adb5.css.map": "/static/css/main.1930adb5.css.map",
+    "main.f2c2da70.js.map": "/static/js/main.f2c2da70.js.map",
+    "703.85559313.chunk.js.map": "/static/js/703.85559313.chunk.js.map",
+    "541.285c4b31.chunk.js.map": "/static/js/541.285c4b31.chunk.js.map",
+    "787.83d46a80.chunk.js.map": "/static/js/787.83d46a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1930adb5.css",
+    "static/js/main.f2c2da70.js"
+  ]
+}
